@@ -70,7 +70,8 @@ We scoured social media for people expressing frustration with 9-1-1, particular
 
 A word of caution: your brain processes time in a weird way during a traumatic event. Someone could *swear* they were on hold for 15 minutes but in reality it was less than 5. They’re not lying to you – their brain is tricking them. For this reason, ALWAYS get the 9-1-1 and (if relevant) CAD reports for their emergency call(s). To get the report, ask the relevant agency for the call report generated for the call that came from your source’s phone number on the day of their incident. If you don’t know who called 9-1-1, you can also ask for all call details on that day/time at the incident location.
 
-Here’s an example of a call detail report we got when fact-checking our source’s account: [https://drive.google.com/file/d/15Oq3z6POjoZ7UKfoPEc925bCeQLBkzL6/view?usp=sharing](https://drive.google.com/file/d/15Oq3z6POjoZ7UKfoPEc925bCeQLBkzL6/view?usp=sharing)
+Here’s an example of a call detail report we got when fact-checking our source’s account: 
+https://drive.google.com/file/d/1GfofL_aenXAjMZveOrqcjdDuiryexTJ3/view?usp=sharing 
 
 This report shows a call on 9/30/23 at 1:50 pm from 4455 Roswell Rd, Atlanta. The caller was on hold for 48 seconds before hanging up (see Abandoned - Y).
 
